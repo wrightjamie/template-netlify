@@ -5,7 +5,8 @@
   "description": "template-netlify",
   "author": "wrightjamie",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "netlifyCMS"
   ],
   "scripts": {
     "develop": "gatsby develop",
